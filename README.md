@@ -201,7 +201,7 @@ Publish the website in the LocalHost.
 
     <!-- Footer -->
     <footer class="footer text-center p-3">
-        <p>&copy; 2024 K S VINAY SUHIRTHAN(24901151)</p>
+        <p>&copy; 2024 MUKESH RAJ D 212224100038</p>
     </footer>
 </body>
 </html>
@@ -224,7 +224,7 @@ Publish the website in the LocalHost.
         <p>Come visit us and discover the taste of love and dedication in every bite!</p>
     </div>
     <footer class="text-center py-3 bg-light">
-        <p>&copy; 2024 K S VINAY SUHIRTHAN (24901151)</p>
+        <p>&copy; 2024 MUKESH RAJ D 212224100038</p>
     </footer>
 </body>
 </html>
@@ -247,7 +247,7 @@ Publish the website in the LocalHost.
         <p class="text-center">Address: 123 Main Street, Foodie City, FC 12345</p>
     </div>
     <footer class="text-center py-3 bg-light">
-        <p>&copy; 2024 K S VINAY SUHIRTHAN (24901151)</p>
+        <p>&copy; 2024 MUKESH RAJ D 212224100038</p>
     </footer>
 </body>
 </html>
@@ -255,9 +255,11 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-12-25 231222.png>)
-![alt text](<Screenshot 2024-12-25 231233.png>)
-![alt text](<Screenshot 2024-12-25 231243.png>)
+![alt text](<Screenshot 2025-05-26 144650-1.png>) 
+![alt text](<Screenshot 2025-05-26 144838-1.png>)
+![alt text](<Screenshot 2025-05-26 144750-1.png>)
+![alt text](<Screenshot 2025-05-26 144736-1.png>)
+![alt text](<Screenshot 2025-05-26 144717-1.png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
